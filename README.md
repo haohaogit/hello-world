@@ -1,2 +1,3 @@
 # hello-world
-my first github repository projrct.
+today i am going to eat big finner with my friend.
+ 
